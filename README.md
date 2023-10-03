@@ -1,6 +1,4 @@
 # First-trip-to-Github
 Hello Github  
 My name is SiCheng  
-Nice to see you  
-
-hello again
+Nice to see you 
